@@ -10,7 +10,11 @@ Study Group:
 - Reuben Jones
 - Rachel Wilson (@razzlepdx)
 
-[P1xt Guide](https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516)
+Links
+---
+- [YDKJS](https://github.com/getify/You-Dont-Know-JS)
+- [P1xt Guide](https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516)
+
 
 
 
