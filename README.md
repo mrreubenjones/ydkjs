@@ -6,8 +6,8 @@ Working through Kyle Simpson's book as part of P1xt's Web Development / Computer
 See each folder for notes on individual chapters.
 
 Study Group:
-- Kayce Hubbard
-- Reuben Jones
+- Kayce Hubbard (@kaycehubbard)
+- Reuben Jones (@mrreubenjones)
 - Rachel Wilson (@razzlepdx)
 
 Links
